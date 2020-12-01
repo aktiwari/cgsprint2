@@ -6,6 +6,7 @@ public class OjasJAVA {
 	
 	public static void main(String[] args) {
 		
+		//tetttttt
 		MeetingfirstTime = false;
 				
 		if(MeetingfirstTime == true) {
